@@ -8,7 +8,10 @@ This site will take you to a page where your face will be detected whether weari
 <br>
 
                                                                                 
-<img align ="right" alt = "coding" width  = "480" src = "https://user-images.githubusercontent.com/87522195/201511738-1fa94474-72fd-4580-99ae-d8453b0876c8.jpg"><img align ="left" alt = "coding" width  = "480" src = "https://user-images.githubusercontent.com/87522195/201511341-d207138e-e6d0-482f-89c3-3771538b3889.jpg">
+<img align ="right" alt = "coding" width  = "1500" src = "https://user-images.githubusercontent.com/87522195/201511738-1fa94474-72fd-4580-99ae-d8453b0876c8.jpg">
+
+
+<img align ="left" alt = "coding" width  = "1500" src = "https://user-images.githubusercontent.com/87522195/201511341-d207138e-e6d0-482f-89c3-3771538b3889.jpg">
 
 
 ..............................
