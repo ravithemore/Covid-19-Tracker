@@ -18,3 +18,6 @@ API used: https://covid19.mathdro.id/api
 
 Setup:
 - run ```npm i && npm start```
+
+Our face Reader Source can be found here.
+### [SANDBOX](https://codesandbox.io/s/wcokws)
