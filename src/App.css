@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+}
+body{
+background-color: #f5f6fa;
+
+}
+.app{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+  border: none;
+}
+.app_left{
+  flex:0.9;
+  border: none;
+}
+.app_header > h1{
+ color: #181414;
+ font-size:2rem;
+}
+
+.app_dropdown{
+  background-color: #008CBA;
+  color: black; 
+  border: 2px solid #008CBA;
+
+}
+.app_dropdown:hover{
+  background-color: #008CBA;
+  color: white;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.myselect {
+  height: 40px;
+  width: 130px;
+  border-radius: 10px;
+
+}
+.app_header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  justify-content: space-between;
+  border: none;
+}
+.app_stats{
+display:flex;
+justify-content: space-between;
+}
+.app_right{
+  display: flex;
+  flex-direction: column;
+  border: none;
+}
+.app_graph{
+  flex-grow:1;
+}
+.app_graphTitle{
+  margin-top: 20px;
+}
+.app_right .MuiCardContent-root{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+@media (max-width:990px){
+  .app{
+    flex-direction: column;
+  }
+}
+
+
+.myheading
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
+button{
+  background-color: #008CBA;
+  color: #181414;
+  border: none;
+  width: 120px;
+  height: 38px;
+  margin-right: 10px;
+
+
+
+}
+button:hover{
+  background-color: #026d91;
+}
